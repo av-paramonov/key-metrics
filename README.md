@@ -1,7 +1,7 @@
 # key-metrics
 Аналитическая записка по ключевым метрикам сервиса доставки еды "Все.из.кафе"
 
-[Ссылка на дашборд в DataLens](h>ps://datalens.yandex/bq98e1x6j9yax)
+[**Ссылка на дашборд в DataLens**](https://datalens.yandex/bq98e1x6j9yax)
 
 ---
 
